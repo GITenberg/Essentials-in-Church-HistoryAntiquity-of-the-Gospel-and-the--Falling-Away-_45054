@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '44181'
     url: http://www.gutenberg.org/2009/agents/44181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45054#Essentials-in-Church-HistoryAntiquity-of-the-Gospel-and-the--Falling-Away-
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-03-03'
 gutenberg_type: Text
