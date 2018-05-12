@@ -1,0 +1,29 @@
+_repo: Essentials-in-Church-HistoryAntiquity-of-the-Gospel-and-the--Falling-Away-_45054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Joseph Fielding
+    birthdate: 1876
+    deathdate: 1972
+    gutenberg_agent_id: '44181'
+    url: http://www.gutenberg.org/2009/agents/44181
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- History'
+title: "Essentials in Church History\r\nA History of the Church from the Birth of\
+  \ Joseph Smith to the Present Time (1922), with Introductory Chapters on the Antiquity\
+  \ of the Gospel and the \"Falling Away\""
+url: http://www.gutenberg.org/ebooks/45054
